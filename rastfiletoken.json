@@ -19,7 +19,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/RasstCrypt/token-list/main/Assets/Ether.png"
     },
-     {
+    {
       "chainId": 93384,
       "address": "0xeDB4faE9A9F03b17120F39a23d6aC4A7AC3B4D5D",
       "name": "USDT",
@@ -27,7 +27,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/RasstCrypt/token-list/main/Assets/usdt.png"
     },
-     {
+    {
       "chainId": 93384,
       "address": "0x82205d9593Ef097096Ff660a8E6D20273F8876bC",
       "name": "Ras",
@@ -35,7 +35,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/RasstCrypt/token-list/main/Assets/Ras.png"
     },
-     {
+    {
       "chainId": 93384,
       "address": "0x3693ebFDC85F3bE9e3C525E38D715a4a7cD90932",
       "name": "Rast",
