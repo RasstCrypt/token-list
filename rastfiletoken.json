@@ -2,6 +2,12 @@
   "name": "Rast Tea List",
   "logoURI": "https://example.com/logo.png",
   "timestamp": "2025-03-15T12:00:00Z",
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+
   "tokens": [
     {
       "chainId": 93384,
